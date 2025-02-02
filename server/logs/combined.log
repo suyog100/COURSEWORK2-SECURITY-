@@ -1,0 +1,28 @@
+{"level":"info","message":{"ip":"::1","method":"GET","token":"No token","url":"/api/project/all?page=1&limit=8&search=&categories=&funding="},"timestamp":"2025-01-31T06:08:08.696Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","token":"No token","url":"/api/project/all?page=1&limit=8&search=&categories=&funding="},"timestamp":"2025-01-31T06:08:08.765Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OWE0YzdlY2RmYjAwNzA4ZmI3YjgyOCIsImlhdCI6MTczODMwMTc3OCwiZXhwIjoxNzM4Mzg4MTc4fQ.YCQ7N4bsuNsKKqimf2uYWiABxExW63XIY3Cry0Ha53s","url":"/api/project/my/projects"},"timestamp":"2025-01-31T06:08:21.162Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OWE0YzdlY2RmYjAwNzA4ZmI3YjgyOCIsImlhdCI6MTczODMwMTc3OCwiZXhwIjoxNzM4Mzg4MTc4fQ.YCQ7N4bsuNsKKqimf2uYWiABxExW63XIY3Cry0Ha53s","url":"/api/project/my/projects"},"timestamp":"2025-01-31T06:08:21.181Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","originSource":"https://localhost:5173","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OWE0YzdlY2RmYjAwNzA4ZmI3YjgyOCIsImlhdCI6MTczODMwMTc3OCwiZXhwIjoxNzM4Mzg4MTc4fQ.YCQ7N4bsuNsKKqimf2uYWiABxExW63XIY3Cry0Ha53s","url":"/api/project/my/projects"},"timestamp":"2025-01-31T06:36:59.634Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","originSource":"https://localhost:5173","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OWE0YzdlY2RmYjAwNzA4ZmI3YjgyOCIsImlhdCI6MTczODMwMTc3OCwiZXhwIjoxNzM4Mzg4MTc4fQ.YCQ7N4bsuNsKKqimf2uYWiABxExW63XIY3Cry0Ha53s","url":"/api/project/my/projects"},"timestamp":"2025-01-31T06:36:59.657Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","originSource":"https://localhost:5173","token":"No token","url":"/api/project/all?page=1&limit=8&search=&categories=&funding="},"timestamp":"2025-01-31T06:37:00.952Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","originSource":"https://localhost:5173","token":"No token","url":"/api/project/all?page=1&limit=8&search=&categories=&funding="},"timestamp":"2025-01-31T06:37:00.972Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/all?page=1&limit=8&search=&categories=&funding=","username":"Anonymous"},"timestamp":"2025-01-31T07:13:51.237Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/all?page=1&limit=8&search=&categories=&funding=","username":"Anonymous"},"timestamp":"2025-01-31T07:13:51.283Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/my/projects","username":"Anonymous"},"timestamp":"2025-01-31T07:14:31.808Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/my/projects","username":"Anonymous"},"timestamp":"2025-01-31T07:14:31.818Z"}
+{"level":"info","message":{"ip":"::1","method":"POST","url":"/api/user/login","username":"Anonymous"},"timestamp":"2025-01-31T07:15:34.250Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/my/projects","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:15:37.570Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/my/projects","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:15:37.580Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:27:18.873Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:27:18.902Z"}
+{"level":"info","message":{"ip":"::1","method":"POST","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:27:31.800Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/all?page=1&limit=8&search=&categories=&funding=","username":"Anonymous"},"timestamp":"2025-01-31T07:27:38.690Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/all?page=1&limit=8&search=&categories=&funding=","username":"Anonymous"},"timestamp":"2025-01-31T07:27:38.715Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:27:39.811Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:27:39.820Z"}
+{"level":"info","message":{"ip":"::1","method":"POST","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:27:55.728Z"}
+{"level":"info","message":{"ip":"::1","method":"POST","url":"/api/user/upload-profile-picture","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:27:55.750Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/all?page=1&limit=8&search=&categories=&funding=","username":"Anonymous"},"timestamp":"2025-01-31T07:27:59.838Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/project/all?page=1&limit=8&search=&categories=&funding=","username":"Anonymous"},"timestamp":"2025-01-31T07:27:59.853Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:28:02.738Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","url":"/api/user/profile","username":"Indira Manandhar"},"timestamp":"2025-01-31T07:28:02.747Z"}
