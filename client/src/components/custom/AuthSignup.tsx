@@ -154,7 +154,7 @@ function AuthSignup() {
                   onChange={(e) => setEmail(e.target.value)}
                   id="email"
                   type="email"
-                  placeholder="prasanna@example.com"
+                  placeholder="suyog@example.com"
                   required
                 />
               </div>
